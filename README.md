@@ -1,1 +1,1 @@
-# Terraform-EC2-Docker-deployment
+# Terraform-EC2-Docker-deployment-lab
